@@ -1,0 +1,29 @@
+
+.link{
+	margin-top: 80px;
+	width: 100%;
+	margin-bottom: 20px;
+	box-sizing: border-box;
+	padding-left: 100px;
+}
+.link a{
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	font-size: 15px;
+	display: inline;
+	padding: 25px 50px;
+	border: 1px solid #121212;
+	border-radius: 10px;
+	margin-right: 100px;
+	color: white;
+	transition: all .3s linear;
+	text-transform: uppercase;
+	margin-bottom: 50px;
+	background: #9f2a3e;
+}
+.link a:hover{
+	background-color: #4bcaff;
+	border-color: #4bcaff;
+	box-shadow: 3px 3px 15px #fff;
+	color: black;
+}
